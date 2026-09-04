@@ -29,7 +29,7 @@ Llama2 和 Llama3 是 Meta 开源的大语言模型，均为dense模型，支持
       <td>8</td>
       <td><=4096</td>
       <td align="center"><a href="https://github.com/HYGON-AI/Megatron-LM-das/tree/core_v0.18.2/examples/llama2">✅</a></td>
-      <td align="center"></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://www.modelscope.cn/models/shakechen/Llama-2-13b">llama2-13B</a></td>
@@ -37,7 +37,7 @@ Llama2 和 Llama3 是 Meta 开源的大语言模型，均为dense模型，支持
       <td>8</td>
       <td><=4096</td>
       <td align="center"><a href="https://github.com/HYGON-AI/Megatron-LM-das/tree/core_v0.18.2/examples/llama2">✅</a></td>
-      <td align="center"></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://huggingface.co/meta-llama/Llama-2-70b">llama2-70B</a></td>
@@ -45,7 +45,7 @@ Llama2 和 Llama3 是 Meta 开源的大语言模型，均为dense模型，支持
       <td>64</td>
       <td><=4096</td>
       <td align="center"><a href="https://github.com/HYGON-AI/Megatron-LM-das/tree/core_v0.18.2/examples/llama2">✅</a></td>
-      <td align="center">tgs=512</td>
+      <td>tgs=512</td>
     </tr>
     <tr>
       <td><a href="https://www.modelscope.cn/models/LLM-Research/Meta-Llama-3-8B">llama3-8B</a></td>
@@ -53,7 +53,7 @@ Llama2 和 Llama3 是 Meta 开源的大语言模型，均为dense模型，支持
       <td>8</td>
       <td><=4096</td>
       <td align="center"><a href="https://github.com/HYGON-AI/Megatron-LM-das/tree/core_v0.18.2/examples/llama3">✅</a></td>
-      <td align="center"></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://www.modelscope.cn/models/LLM-Research/Meta-Llama-3-70B">llama3-70B</a></td>
@@ -61,7 +61,7 @@ Llama2 和 Llama3 是 Meta 开源的大语言模型，均为dense模型，支持
       <td>64</td>
       <td><=4096</td>
       <td align="center"><a href="https://github.com/HYGON-AI/Megatron-LM-das/tree/core_v0.18.2/examples/llama3">✅</a></td>
-      <td align="center"></td>
+      <td></td>
     </tr>
         <tr>
       <td><a href="https://www.modelscope.cn/models/LLM-Research/Meta-Llama-3.1-405B">llama3-405B</a></td>
@@ -69,7 +69,7 @@ Llama2 和 Llama3 是 Meta 开源的大语言模型，均为dense模型，支持
       <td>512</td>
       <td><=4096</td>
       <td align="center"><a href="https://github.com/HYGON-AI/Megatron-LM-das/tree/core_v0.18.2/examples/llama3">✅</a></td>
-      <td align="center"></td>
+      <td></td>
     </tr>
   </tbody>
 </table>

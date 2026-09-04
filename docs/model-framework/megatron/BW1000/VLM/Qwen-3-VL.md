@@ -18,7 +18,7 @@ Qwen3-VL 是阿里通义千问第三代视觉多模态理解模型，支持 2B ~
       <th rowspan="2">TE版本</th>
       <th rowspan="2">推荐卡数</th>
       <th rowspan="2">序列长度</th>
-      <th rowspan="2">示例脚本<qwen/th>
+      <th rowspan="2">示例脚本</th>
     </tr>
   </thead>
   <tbody>
@@ -38,22 +38,22 @@ Qwen3-VL 是阿里通义千问第三代视觉多模态理解模型，支持 2B ~
     </tr>
     <tr>
       <td><a href="https://www.modelscope.cn/models/Qwen/Qwen3-VL-8B-Instruct/files">Qwen3-VL-8B</a></td>
-       <td>BF16</td><td>2.9</td><td>2.10</td>
+      <td>BF16</td><td>2.9</td><td>2.10</td>
       <td>8</td>
       <td><=4096</td>
       <td><a href="https://github.com/HYGON-AI/Megatron-LM-das/tree/core_v0.18.2/examples/qwen3">✅</a></td>
     </tr>
     <tr>
-      <td><a href="https://www.modelscope.cn/models/Qwen/Qwen3-VL-32B-Instruct/files">Qwen3-VL-32B</a></td>
-       <td>BF16</td><td>2.9</td><td>2.10</td>
-      <td>8</td>
-      <td><=4096</td>
-      <td><a href="https://github.com/HYGON-AI/Megatron-LM-das/tree/core_v0.18.2/examples/qwen3">✅</a></td>
+      <td>Qwen3-VL-32B</td>
+      <td>-</td><td>-</td><td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td align="center">正在适配</td>
     </tr>
     <tr>
       <td><a href="https://www.modelscope.cn/models/Qwen/Qwen3-VL-30B-A3B-Instruct/files">Qwen3-VL-30B-A3B</a></td>
       <td>BF16</td><td>2.9</td><td>2.10</td>
-      <td>8</td>
+      <td>32</td>
       <td><=4096</td>
       <td><a href="https://github.com/HYGON-AI/Megatron-LM-das/tree/core_v0.18.2/examples/qwen3">✅</a></td>
     </tr>

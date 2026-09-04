@@ -41,7 +41,7 @@
 **核心标准：别人使用你的配置和脚本，不需要问任何问题就能跑起来，并得到接近的结果。**
 - 对于尚未达到最优性能的脚本, 不需要填写性能参考
 - 对于已达到最优性能的脚本, 需要填写性能参考
-> 参考示例：[docs\model-foundation\BW1000\LLM\Llama.md](docs\model-foundation\BW1000\LLM\Llama.md)
+> 参考示例：[docs/model-framework/megatron/BW1100/LLM/Qwen-3.md](./docs/model-framework/megatron/BW1100/LLM/Qwen-3.md)
 
 **❌ 不要这样做：**
 

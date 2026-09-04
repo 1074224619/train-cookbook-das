@@ -18,7 +18,7 @@ Qwen3 是阿里通义千问第三代大语言模型，支持 0.6B ~ 235B 多种�
       <th rowspan="2">TE版本</th>
       <th rowspan="2">推荐卡数</th>
       <th rowspan="2">序列长度</th>
-      <th rowspan="2">示例脚本<qwen/th>
+      <th rowspan="2">示例脚本</th>
     </tr>
   </thead>
   <tbody>
@@ -69,6 +69,14 @@ Qwen3 是阿里通义千问第三代大语言模型，支持 0.6B ~ 235B 多种�
       <td>8</td>
       <td><=8192</td>
       <td align="center"><a href="https://github.com/HYGON-AI/Megatron-LM-das/tree/core_v0.18.2/examples/qwen3">✅</a></td>
+    </tr>
+    <tr>
+      <td>qwen3-235B-A22B</td>
+      <td>BF16</td><td>2.9</td><td>2.10</td>
+      <td>128</td>
+      <td><=4096</td>
+      <td align="center">正在适配</td>
+    </tr>
   </tbody>
 </table>
 

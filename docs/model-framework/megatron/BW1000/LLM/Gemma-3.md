@@ -27,7 +27,7 @@ Gemma-3 是google开源的大语言模型, 语言模型有 1B 参数。
       <td>BF16</td><td>2.9</td><td>2.10</td>
       <td>8</td>
       <td><=4096</td>
-    <td align="center"><a href="https://github.com/HYGON-AI/Megatron-LM-das/tree/core_v0.18.2/examples/gemma3">✅</a></td>
+      <td align="center"><a href="https://github.com/HYGON-AI/Megatron-LM-das/tree/core_v0.18.2/examples/gemma3">✅</a></td>
     </tr>
   </tbody>
 </table>

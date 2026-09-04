@@ -18,7 +18,7 @@ Llama2 和 Llama3 是 Meta 开源的大语言模型，均为dense模型，支持
       <th rowspan="2">TE版本</th>
       <th rowspan="2">推荐卡数</th>
       <th rowspan="2">序列长度</th>
-      <th rowspan="2">示例脚本<qwen/th>
+      <th rowspan="2">示例脚本</th>
     </tr>
   </thead>
   <tbody>

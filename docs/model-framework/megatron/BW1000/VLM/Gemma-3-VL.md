@@ -41,7 +41,6 @@ Gemma-3VL 是google开源的大语言模型, 语言模型有 4-27B 参数。
       <td>-</td><td>-</td><td>-</td>
       <td>-</td>
       <td>-</td>
-      <td align="center">正在适配</td>
     </tr>
   </tbody>
 </table>

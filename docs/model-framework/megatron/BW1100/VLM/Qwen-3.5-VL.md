@@ -18,51 +18,30 @@ Qwen3.5-VL 是阿里通义千问第三代纯视觉多模态理解模型，支持
       <th rowspan="2">TE版本</th>
       <th rowspan="2">推荐卡数</th>
       <th rowspan="2">序列长度</th>
-      <th rowspan="2">示例脚本<qwen/th>
+      <th rowspan="2">示例脚本</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://www.modelscope.cn/models/Qwen/Qwen3.5-0.8B">Qwen3.5-VL-0.8B</a></td>
-      <td>BF16</td><td>2.9</td><td>2.10</td>
-      <td>8</td>
-      <td><=4096</td>
-      <td><a href="https://github.com/HYGON-AI/Megatron-LM-das/tree/core_v0.18.2/examples/Qwen3.5">✅</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://www.modelscope.cn/models/Qwen/Qwen3.5-2B">Qwen3.5-VL-2B</a></td>
-      <td>BF16</td><td>2.9</td><td>2.10</td>
-      <td>8</td>
-      <td><=4096</td>
-      <td><a href="https://github.com/HYGON-AI/Megatron-LM-das/tree/core_v0.18.2/examples/qwen3.5">✅</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://www.modelscope.cn/models/Qwen/Qwen3.5-4B">Qwen3.5-VL-4B</a></td>
-      <td>BF16</td><td>2.9</td><td>2.10</td>
-      <td>8</td>
-      <td><=4096</td>
-      <td><a href="https://github.com/HYGON-AI/Megatron-LM-das/tree/core_v0.18.2/examples/qwen3.5">✅</a></td>
-    </tr>
-    <tr>
       <td><a href="https://www.modelscope.cn/models/Qwen/Qwen3.5-9B">Qwen3.5-VL-9B</a></td>
       <td>BF16</td><td>2.9</td><td>2.10</td>
       <td>8</td>
-      <td><=2048</td>
+      <td><=4096</td>
       <td><a href="https://github.com/HYGON-AI/Megatron-LM-das/tree/core_v0.18.2/examples/qwen3.5">✅</a></td>
     </tr>
     <tr>
-      <td>Qwen3.5-VL-27B</td>
-      <td>-</td><td>-</td><td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td align="center">正在适配</td>
+      <td><a href="https://www.modelscope.cn/models/Qwen/Qwen3.5-27B">Qwen3.5-VL-27B</a></td>
+      <td>BF16</td><td>2.9</td><td>2.10</td>
+      <td>8</td>
+      <td><=4096</td>
+      <td><a href="https://github.com/HYGON-AI/Megatron-LM-das/tree/core_v0.18.2/examples/qwen3.5">✅</a></td>
     </tr>
     <tr>
-      <td>Qwen3.5-VL-35B-A3B</td>
-      <td>-</td><td>-</td><td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td align="center">正在适配</td>
+      <td><a href="https://www.modelscope.cn/models/Qwen/Qwen3.5-35B-A3B">Qwen3.5-VL-35B-A3B</a></td>
+      <td>BF16</td><td>2.9</td><td>2.10</td>
+      <td>8</td>
+      <td><=4096</td>
+      <td><a href="https://github.com/HYGON-AI/Megatron-LM-das/tree/core_v0.18.2/examples/qwen3.5">✅</a></td>
     </tr>
     <tr>
       <td>Qwen3.5-VL-122B-A10B</td>

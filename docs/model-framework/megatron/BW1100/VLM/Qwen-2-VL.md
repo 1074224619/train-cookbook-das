@@ -30,20 +30,6 @@ Qwen2/2.5-VL 是阿里通义千问第二代视觉多模态理解模型，支持 
       <td align="center">正在适配</td>
     </tr>
     <tr>
-      <td>Qwen2-VL-7B</td>
-      <td>-</td><td>-</td><td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td align="center">正在适配</td>
-    </tr>
-    <tr>
-      <td>Qwen2.5-VL-3B</td>
-      <td>-</td><td>-</td><td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td align="center">正在适配</td>
-    </tr>
-    <tr>
       <td><a href="https://www.modelscope.cn/models/Qwen/Qwen2.5-VL-7B-Instruct">Qwen2.5-VL-7B</a></td>
       <td>BF16</td><td>2.9</td><td>2.10</td>
       <td>8</td>
@@ -51,18 +37,18 @@ Qwen2/2.5-VL 是阿里通义千问第二代视觉多模态理解模型，支持 
       <td><a href="https://github.com/HYGON-AI/Megatron-LM-das/tree/core_v0.18.2/examples/qwen2">✅</a></td>
     </tr>
     <tr>
-      <td>Qwen2.5-VL-32B</td>
-      <td>-</td><td>-</td><td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td align="center">正在适配</td>
+      <td><a href="https://www.modelscope.cn/models/Qwen/Qwen2.5-VL-32B-Instruct">Qwen2.5-VL-32B</a></td>
+      <td>BF16</td><td>2.9</td><td>2.10</td>
+      <td>8</td>
+      <td><=4096</td>
+      <td><a href="https://github.com/HYGON-AI/Megatron-LM-das/tree/core_v0.18.2/examples/qwen2">✅</a></td>
     </tr>
     <tr>
       <td><a href="https://www.modelscope.cn/models/Qwen/Qwen2.5-VL-72B-Instruct">Qwen2.5-VL-72B</a></td>
       <td>BF16</td><td>2.9</td><td>2.10</td>
       <td>128</td>
       <td><=32768</td>
-      <td align="center">-</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>

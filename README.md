@@ -281,7 +281,7 @@
   </tbody>
 </table>
 
-### 视频生成模型
+### 多模态生成模型
 
 <table align="center">
   <thead>
@@ -297,7 +297,7 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="14"></td>
+      <td rowspan="14">Omni-modal Generation Model</td>
       <td>MiniMax-H3</td>
       <td align="center"><a href="docs/model-framework/DiffSynthStudio/BW1000/MiniMax-H3.md">✅</a></td>
       <td align="center">-</td>

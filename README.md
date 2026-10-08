@@ -382,8 +382,13 @@
 
 ## 快速开始
 在 HCU 上运行一个 AI 模型，请参考：
-- [Megatron-LM-das-快速开始](https://github.com/HYGON-AI/Megatron-LM-das)。
-- [Verl-das-快速开始](https://github.com/HYGON-AI/verl-das)。
+- [Megatron-LM-das 快速开始](https://github.com/HYGON-AI/Megatron-LM-das)。
+- [Verl-das 快速开始](https://github.com/HYGON-AI/verl-das)。
+- [Slime-das 快速开始](docs/framework/slime-das.md)。
+- [ms-swift 快速开始(暂无)]()。
+- [llamafactory 快速开始(暂无)]()。
+- [mmcv 快速开始(暂无)]()。
+- [diffsynthstudio 快速开始](./docs/framework/diffsynthstudio.md)。
 
 ## 📄 许可证与第三方来源
 
